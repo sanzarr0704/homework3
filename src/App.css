@@ -1,0 +1,44 @@
+* {
+  text-align: center;
+}
+
+.counter{
+  margin-top: 5rem;
+}
+
+.count {
+  color:chocolate;
+  font-size: 3rem;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  margin: 5px;
+  color: white;
+  border-radius: 0.7rem;
+  font-size: 2rem;
+  width:2.5rem;
+  
+}
+
+.btn_dec{
+  background-color: red;
+}
+
+.btn_inc {
+  background-color: green;
+}
+
+.btn_minus_2 {
+  background-color:chartreuse;
+}
+
+.btn_plus_5 {
+  background-color:blue;
+}
+
+.btn_reset {
+width: max-content;
+background-color:grey;
+}
